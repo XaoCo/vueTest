@@ -4,7 +4,7 @@
       <img class="img" src="@/assets/images/error_kxc.png" alt />
     </div>
     <div class="title">
-      <span>系统开了小差，请重新登录</span>
+      <span>系统开了小差，请重新登录!</span>
     </div>
 		<router-link tag="div" to="/" class="button">
 			<p class="back-home">返回登录页</p>
